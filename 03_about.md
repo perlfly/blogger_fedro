@@ -19,5 +19,15 @@ Master swimmer since age 25. Sadly now I can't practice it due to time constrain
 Rugby when I was really young: from 8 to 10. It gave me a strong and valuable _inprinting_
 
 <hr />
- <span class="icon"> {% include Flag_of_Italy.svg %} </span> 
- <a href="{{ "/Matteo_Piombo_CV_2015.pdf" | prepend: site.baseurl }}">Curriculum Vitae</a>	
+<table border = "0px" width = "100%">
+	<tr>
+		<td>
+			<a href="{{ "/Matteo_Piombo_CV_EN_2015.pdf" | prepend: site.baseurl }}">Curriculum Vitae</a> 
+		</td>
+		<td align="right">
+			<span class="icon"> {% include Flag_of_Italy.svg %} </span> 
+ 			<a href="{{ "/Matteo_Piombo_CV_IT_2015.pdf" | prepend: site.baseurl }}">Curriculum Vitae</a>
+		</td>
+	</tr>
+</table>
+	
