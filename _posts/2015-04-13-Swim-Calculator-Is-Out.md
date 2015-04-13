@@ -10,6 +10,8 @@ lang:
 - Calculate FINA points
 - View World Record and Master World record
 - View World Record going up as time goes by! ;-)
+
+
 <table border="0">
 	<tr>
 		<td><a href="{{site.baseurl}}/apps/sc.html"><img class="appicon" src="{{site.baseurl}}/apps/apps_sc_icon.png" /></a></td>
