@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master's Calculator (INT)
+title: Swim Calculator
 tag: apps
 ---
 
