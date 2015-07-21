@@ -5,14 +5,15 @@ tag: apps
 ---
 
 I do not collect personal information.
-Since my apps are supported by third party advertisers ...
+Since my apps are supported by third party advertisers you can visit the 
+[Network Advertising Initiative][1] or the 
+[Digital Advertising Alliance][2] to learn more about 
+third party advertisment. 
 
 <hr/>
-<div>
-<br/>
-<span class="icon">{% include Flag_of_Italy.svg %}</span>
-</div>
 
 
-Non raccolgo informazioni personali.
-Dato che le app sono supportate da pubblicità di terze parti ...
+
+
+[1]: http://www.networkadvertising.org/choices/  "Network Advertising Initiative"
+[2]: http://www.aboutads.info/choices/			"Digital Advertising Alliance"
