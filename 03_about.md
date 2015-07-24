@@ -14,6 +14,10 @@ iOS developer with a few independent apps on the store since iOS 5.
 ###Sports
 I like running in the early morning ... really early.
 
+<div align="center">
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/10379133/activity-summary/efc240d5b963ed48e380fb25775bfb39ecc14543'></iframe>
+</div>
+
 Master swimmer since age 25. Sadly now I can't practice it due to time constraints :-(
 
 Rugby when I was really young: from 8 to 10. It gave me a strong and valuable _inprinting_
