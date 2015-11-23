@@ -13,9 +13,9 @@ iOS developer with a few independent apps on the store since iOS 5.
 ### Skills
 
  - Software development
-    - Programming in varius high and low level languages such as _Swift_, _Objective-C_, _PHP_, _Javascript_, _R_, _Matlab_. Mobile and web applications.
+    - Programming in different high and low level languages such as _Swift_, _Objective-C_, _PHP_, _Javascript_, _R_, _Matlab_, _Python_. Mobile and web applications.
     - Interaction with third party services such as _Facebook_, _Goolge_, _Parse_
- - Data analysis techniques such as _linear regression_, _machine learning_, _neural networks_ using dedicated tools like _R_ or _Matlab_.
+ - _Data Analysis_ techniques such as linear regression, and _Machine Learning_ such as _deep learning_ using dedicated tools like _R_ or _Matlab_.
  - Systems administration: participated for several years in coordination and operations in health care data center. 
  
 ###Sports
