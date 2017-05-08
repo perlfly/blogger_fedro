@@ -4,6 +4,8 @@ title: Swim Calculator
 tag: apps
 ---
 
+# The App is no longer available on the app store
+
 <table border="0">
 	<tr>
 		<td><img class="appicon" src="{{site.baseurl}}/apps/apps_sc_icon.png" /></td>

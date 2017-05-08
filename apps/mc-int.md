@@ -3,6 +3,7 @@ layout: page
 title: Master's Calculator (INT)
 tag: apps
 ---
+# The App is no longer available on the app store
 
 <table border="0">
 	<tr>

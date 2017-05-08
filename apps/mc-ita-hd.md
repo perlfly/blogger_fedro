@@ -4,6 +4,7 @@ title: Master's Calculator HD (ITA)
 tag: apps
 ---
 
+# This App is available on the app store but no longer updated
 
 <table border="0">
 	<tr>
@@ -13,7 +14,7 @@ tag: apps
 	</tr>
 </table>
 
-This is app is dedicated to italian Master Swimmers. It uses points calculations that are 
+This is app is dedicated to italian Master Swimmers. It uses points calculations that are
 specific to the Italian Master Championship ruled by [F.I.N.][fin]
 
 It has a few more functionalities then the iPhone version.
