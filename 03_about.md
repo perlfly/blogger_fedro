@@ -5,12 +5,15 @@ tag: menu
 permalink: /about/
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c7b67d4-19c8-465a-b1e4-21d640e0603e" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 ### Business Intelligence
   - Serverless solutions on AWS cloud
 
 ### Skills
 
- - Cloud computing (AWS)
+ - Cloud computing ([AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/1c7b67d4-19c8-465a-b1e4-21d640e0603e/public_url))
+
  - Software development
     - Programming in different high and low level languages such as _Swift_, _Objective-C_, _PHP_, _Javascript_, _R_, _Matlab_, _Python_. Mobile and web applications.
     - Interaction with third party services such as _Facebook_, _Goolge_
