@@ -9,15 +9,15 @@
 
     <hr>
 	<div id="head-bar" align="center">
-	<span class="head-separator"> : </span> 
-	 <a href="{{ site.baseurl }}/">Blog</a>
-	<span class="head-separator"> : </span> 
+	<span class="head-separator"> : </span>
 		{% for page in site.pages %}
           {% if page.tag == "menu" && page.title %}
           <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          <span class="head-separator"> : </span> 
+          <span class="head-separator"> : </span>
           {% endif %}
         {% endfor %}
+	 <a href="{{ site.baseurl }}/">Blog</a>
+  <span class="head-separator"> : </span>
 	</div>
     <hr>
 
